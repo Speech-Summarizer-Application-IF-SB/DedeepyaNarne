@@ -1,0 +1,7 @@
+streamlit>=1.20
+openai-whisper
+transformers>=4.30
+torch
+ffmpeg-python
+imageio[ffmpeg]
+sentencepiece
